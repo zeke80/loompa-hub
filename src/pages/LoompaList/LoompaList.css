@@ -1,0 +1,12 @@
+.layout {
+  max-width: 1600px;
+}
+
+.loompa-detail {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.loompa-detail:hover {
+  background-color: #f0f0f0;
+}

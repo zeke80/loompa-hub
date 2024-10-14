@@ -1,0 +1,17 @@
+.header {
+  height: 60px;
+  background-color: #d8d8d8;
+}
+
+.layout {
+  width: 1600px;
+}
+
+.brand {
+  cursor: pointer;
+}
+
+.logo {
+  height: 40px;
+  width: auto;
+}

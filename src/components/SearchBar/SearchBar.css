@@ -1,0 +1,26 @@
+.search-bar {
+  width: 300px;
+  border-radius: 10px;
+  border-width: 3px;
+  border-color: #d3d3d3;
+  border-style: solid;
+}
+
+input {
+  border-width: 0px !important;
+}
+
+.divider {
+  width: 4px;
+  height: 20px;
+  background-color: #d3d3d3;
+}
+
+.icon-box {
+  border-width: 0px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
