@@ -28,7 +28,7 @@ function LoompaSimpleDetail({
         />
       </div>
       <div className="my-3">
-        <p className="m-0 fw-light fst-italic">{id}</p>
+        {/* <p className="m-0 fw-light fst-italic">{id}</p> */}
         <p className="m-0 fs-5 fw-bold">
           {firstName} {lastName}
         </p>
